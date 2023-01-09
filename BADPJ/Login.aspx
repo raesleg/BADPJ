@@ -39,6 +39,7 @@
             <tr>
                 <td>
                     <asp:Button ID="Button1" runat="server" Text="Button" />
+                    <asp:Button ID="Button3" runat="server" Text="Button" />
                 </td>
                 <td>&nbsp;</td>
             </tr>
